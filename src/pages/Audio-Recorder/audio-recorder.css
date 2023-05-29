@@ -1,0 +1,36 @@
+
+.top {
+    margin-top: 0%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+    background-color: azure;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    
+  }
+  
+  .audio-recorder-buttons {
+    margin-bottom: 20px;
+  }
+  .audio-recorder-btns {
+    width: 10rem;
+    background-color: #dee2e9;
+    padding: 0.5%;
+    border-radius: 8px;
+    cursor: pointer;
+
+  }
+  
+  .audio-recorder-button {
+    padding: 8px 16px;
+    margin-right: 8px;
+    font-size: 16px;
+    background-color: #627086;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
